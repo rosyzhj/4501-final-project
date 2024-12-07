@@ -4,7 +4,7 @@
 *.csv
 .DS_Store
 *.zip
-
+*.db
 /uber_data
 /taxi_data
 /taxi_zones
