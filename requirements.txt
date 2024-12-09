@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+geopandas
+folium
+beautifulsoup4
+requests
+sqlalchemy
+scipy
+Jinja2
