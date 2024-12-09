@@ -12,5 +12,5 @@ taxi_zones.*
 /weather_data
 *.html
 *.gif
-
+/frames
 /.ipynb_checkpoints
