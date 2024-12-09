@@ -13,3 +13,4 @@ taxi_zones.*
 *.html
 *.gif
 
+/.ipynb_checkpoints
